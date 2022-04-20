@@ -68,7 +68,7 @@
     
     .h1{
         font-size: 25px;
-        margin-left: 28px;
+        margin-left: 10px;
         
     }
     .img{
@@ -80,17 +80,17 @@
     }
     .button{
         margin-top: 40px;
-        margin-left: 45px;
+        margin-left: 23px;
     }
     .main{
         margin-left: 95px;
         margin-top: -200px;
     }
    .main-p{
-       margin-top: -400px;
+       margin-top: -470px;
        width: 300px;
        font-size: 18px;
-       margin-left: 73px;
+       margin-left: 53px;
        height: auto;
        padding-top: 12px;
        padding-bottom: 12px;
